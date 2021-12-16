@@ -1,7 +1,7 @@
-# Amassa2.pe-VeraChamorro-Bootstrap
-Maquetando proyecto para Amassa2.pe usando Boostrap para las vistas Indes.Html y una adicional
+# Amassa2.pe-VeraChamorro
+Maquetando proyecto para Amassa2.pe usando bootstrap
 
-Proyecto realizado para Desafío Desafio Complementario: PLICANDO BOOTSTRAP A TODAS LAS PAGINAS (5)
+Proyecto realizado para la segunda entrega del proyecto final - CoderHouse
 <br>
 Realizado por: Frank Jairo Vera Chamorro
 <hr>
