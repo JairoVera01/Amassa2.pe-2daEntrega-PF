@@ -1,7 +1,7 @@
 /*Estilos - Header - NavBar*/
 
 .header{
-    font-size: 1.29rem;
+    font-size: 1.2rem;
     position: fixed;
     z-index: 100;
     width: 100%;
@@ -9,7 +9,7 @@
 
 
 .header__img{
-    height: 4.2rem;
+    height: 3.8rem;
     border-radius: 5rem;    
     transition: all 2s;
     margin-left: 10px;
