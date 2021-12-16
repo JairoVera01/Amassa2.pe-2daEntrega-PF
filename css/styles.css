@@ -192,8 +192,11 @@ body {
 
 /*Contacto*/
 
-
-
+.contacto{
+    position: relative;
+    z-index: 2; /*Para ordenar div - suerponer uno por otro */
+    background-color: white;
+}
 .titulo__contacto{
     position: relative;
     text-align: center;
@@ -207,11 +210,7 @@ body {
 
 
 
-.contacto{
-    position: relative;
-    z-index: 2; /*Para ordenar div - suerponer uno por otro */
-    background-color: white;
-}
+
 
 
 
@@ -234,3 +233,6 @@ body {
 }
 
 
+.titulo__tabla{
+    text-align: center;
+}
