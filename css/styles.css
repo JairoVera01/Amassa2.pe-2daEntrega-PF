@@ -2,7 +2,9 @@
 
 .header{
     font-size: 1.29rem;
-    
+    position: fixed;
+    z-index: 100;
+    width: 100%;
 }
 
 
@@ -233,6 +235,3 @@ body {
 }
 
 
-.titulo__tabla{
-    text-align: center;
-}
