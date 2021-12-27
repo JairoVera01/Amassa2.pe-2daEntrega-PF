@@ -1,3 +1,30 @@
+/*Boton flotante para wsp*/
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#E3BC91;
+	color:#FFF;
+	border-radius:50px;
+	padding-top: 2px;
+    text-align: center;
+    font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+    z-index:100;
+}
+.float:hover {
+	text-decoration: none;
+	color: brown;
+    background-color:#fff;
+}
+
+.my-float{
+	margin-top:16px;
+    
+}
+
 /*Estilos - Header - NavBar*/
 
 .header{
@@ -19,9 +46,14 @@
     transform: translate(1rem);
 }
 
-
 .contenedor__logo{
     margin-right: 1.5rem;
+}
+
+.bold__text:hover{
+    color: white; 
+    font-weight: bold;
+    
 }
 
 .navbar-light{
@@ -91,8 +123,8 @@
     margin-bottom: 3rem;
 }
 
-.btn__compra{
-    font-size: 1.5rem;
+.btn__compra, .btn__mensaje, .btn__precios{
+    font-size: 1.1rem;
 }
 
 .hero{
@@ -235,3 +267,14 @@ body {
 }
 
 
+.album__alfajores{
+    overflow: hidden;
+}
+
+.container__spotify{
+    overflow: hidden;
+}
+
+.album__instagram{
+    overflow: hidden;
+}
