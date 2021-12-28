@@ -120,12 +120,12 @@
 
 .hero__titulo{   
     color: white ;
-    font-size: 3.5rem;  
+    font-size: 3rem;  
     margin-bottom: 3rem;
 }
 
 .btn__compra, .btn__mensaje, .btn__precios{
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 
 .hero{
