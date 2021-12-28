@@ -3,8 +3,8 @@
 	position:fixed;
 	width:60px;
 	height:60px;
-	bottom:40px;
-	right:40px;
+	bottom:50px;
+	right:90px;
 	background-color:#E3BC91;
 	color:#FFF;
 	border-radius:50px;
@@ -107,6 +107,7 @@
     display: flex;
     align-items: center;
     position: relative;
+    overflow: hidden;
     z-index: 2; /*Para ordenar div - suerponer uno por otro */
 }
 
